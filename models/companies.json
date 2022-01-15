@@ -1,0 +1,83 @@
+[
+  {
+    "name":"Crazy builders",
+    "specialities":[
+      "Excavation",
+      "Plumbing",
+      "Electrical"
+    ],
+    "city":"Amsterdam"
+  },
+  {
+    "name":"Building gods",
+    "specialities":[
+      "Painting",
+      "Dredging",
+      "Carpentry"
+    ],
+    "city":"Rotterdam"
+  },
+  {
+    "name":"Build Now",
+    "specialities":[
+      "Excavation",
+      "Painting",
+      "Landscaping"
+    ],
+    "city":"Maastricht"
+  },
+  {
+    "name":"Demolish Earth",
+    "specialities":[
+      "Waterproofing",
+      "Welding",
+      "Dredging"
+    ],
+    "city":"Utrecht"
+  },
+  {
+    "name":"Lovely Architects",
+    "specialities":[
+      "Excavation",
+      "Welding",
+      "Dredging"
+    ],
+    "city":"Groningen"
+  },
+  {
+    "name":"God of construct",
+    "specialities":[
+      "Excavation",
+      "Landscaping",
+      "Lineworking"
+    ],
+    "city":"Eindhoven"
+  },
+  {
+    "name":"Turn Stone into Castle",
+    "specialities":[
+      "Ironworking",
+      "Welding",
+      "Painting"
+    ],
+    "city":"Leiden"
+  },
+  {
+    "name":"Builders out of this world",
+    "specialities":[
+      "Excavation",
+      "Waterproofing",
+      "Electrical"
+    ],
+    "city":"Amsterdam"
+  },
+  {
+    "name":"Lazy Developers",
+    "specialities":[
+      "Excavation",
+      "Carpentry",
+      "Waterproofing"
+    ],
+    "city":"Zwolle"
+  }
+]
